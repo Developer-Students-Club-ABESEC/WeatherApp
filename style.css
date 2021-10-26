@@ -17,6 +17,9 @@ body {
 .input {
   text-align: center;
   margin: 50px 0;
+  width: 30vw;
+  display: flex;
+  justify-content: space-between;
 }
 
 input[type="text"] {
